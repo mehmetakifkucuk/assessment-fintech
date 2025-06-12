@@ -1,0 +1,110 @@
+Frame 0
+. Hi!, this is Mehmet Akif here, for presenting you the full fledged Data Strategy for pemo.
+. In short, I have been in Data field for over 15 years, worked end to end from engineering to exploration and analytics and so on. Focused more on CRM, Growth and Finance Data.
+Frame 2
+. Here you see the very boring bullet points list of our Data Strategy
+. But don't worry, you  will not get lost, I will try my best to make things simpler and fun, I hope you'll enjoy the journey.
+. My focus will make each and every piece of this strategy would make total sense at the end of this presentation.
+. In today’s era of AI, simplifying things are sometimes more important that the actual development itself.
+. Each technical step has to serve to Business Requirements in one way or another.
+. So, off we go!
+Frame 3 . Let’s start with why we need this strategy
+. And the challenges!
+. And what are we trying to solve
+
+. In the current level of complexity and size, pemo is able to manage its everyday data needs, follow the responsibilities as much as possible.
+. But regulations are strict and we have to follow them.
+
+. we are GROWING! which is great but that also brings drastic increase in complexities and responsibilities
+
+. And in the current state We are not ready, YET!
+
+. here comes the proper Data Strategy in the picture
+
+------------------------------------------------------------------------------------------
+This will serve to fulfill both Business and Compliance requirements of current pemo and grown-up pemo
+
+. The first step, on the business side of the things,
+ . what the teams expect from Data
+. 1 - Better visuals with curated data
+. 2 - Consistent, Accurate and Quick Data Access for better decision making.
+
+to fulfill these requirements, we have prepared the following points to serve business at scale.
+
+The titles are
+. Data Architecture and Performance
+. Data Visualization
+. Data Quality
+
+So, we'll have:
+. optimized systems for faster data access
+. proper pipelines and curation for consistent and accurate data access
+. proper datasets generations for Advanced Analytics and ML such as fraud model feeds
+. LLM (GPT AI) for sensitive information exploration
+
+. Proper reports and visualizations catalog pointing the curated data at the back end
+
+. Continuous Quality check and monitoring
+
+------------------------------------------------------------------------------------------
+On the other side, we have Compliance requirements which are critical for fintechs.
+
+------------------------------------------------------------------------------------------
+This data strategy proposes a full fledged framework
+
+Starting with analysis and Clean up -
+Creating a company level data catalog to check
+  . What we have
+  . What to store,
+  . Where to store etc.
+
+. Will be managed by proper access controls, like who should access which data points
+
+. This process will keep improving and powered by monitoring success metrics
+
+. Managing Success Metrics
+
+. Having the entire data visibility with ownerships on a table and column level
+
+. Data Residency and Retention Policies
+
+. Policies for Data sharing with 3rd Parties
+
+. Business Resilience
+
+. And this brings us back to our beloved Srategy bullet points list
+
+. And here are the sample structure of our framework
+
+. Table Level Catalog
+. Column Level Catalog
+. Roles Based Access (Both on Column and Row Level)
+. Data Residency to follow and fulfill UAE KSA Data Residency needs
+. Data Quality Checks and alerting mechanism
+. External 3rd party data sharing tracking and permissions
+. Disaster Recovery strategies
+
+Frame 4
+So, what we are trying to achieve with this
+
+For Leadership
+. Better decisions bring additional revenue
+. 0 fines policy
+. Drastic Data processing cost reduction
+
+For Teams
+. Right people will access right data faster
+
+. Customers will be happy to have faster response and personalized experience with ML.
+. They will feel safe with their private data
+
+Frame 5
+. We need your support on manage the resistance, especially on compliance side. Will be seen as extra burden.
+
+pemoCurrent
+pemoHighLevel
+pemoHypotheticalDesign
+
+. Before closing, I would like show you the propsed Data Model and Flow very shortly.
+
+. Thanks for your time
